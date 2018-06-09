@@ -1,2 +1,2 @@
 # Ceramic
-WWDC Scholarship[Accepted]
+WWDC18 Scholarship[Accepted]
